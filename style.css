@@ -76,7 +76,7 @@ body {
     content: "\2022";
     font-size: 47px;
     position: absolute;
-    color: #EB4D4D;
+    color: #b11111;
     top: -7px;
     right: 10px;
     
@@ -141,6 +141,7 @@ i {
 .btn-hold { top: 467px;}
 
 .dice {
+ 
     position: absolute;
     left: 50%;
     top: 178px;
